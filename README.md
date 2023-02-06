@@ -60,6 +60,7 @@ Hostname-Port Allocations
 | `www.mkdevops.se`          | `8073` | www.mkdevops.se WordPress site                 |
 | `staging-www.mkdevops.se`  | `8074` | www.mkdevops.se WordPress staging site         |
 | `bamboo.mkdevops.se`       | `8085` | Test server for `mkdevops-se/bamboo-ci-health` |
+| `pt.mabl.se`               | `9000` | Test server for video streaming                |
 | `konfigurator.mkdevops.se` | `3000` | See `mkdevops-se/konfigurator` project         |
 | `kibana.mkdevops.se`       | `5601` | Kibana setup for Titan-Elastic                 |
 

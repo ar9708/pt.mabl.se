@@ -30,6 +30,10 @@
         - name: bamboo.mkdevops.se
           local_port: 8085
 
+        - name: pt.mabl.se
+          local_port: 9000
+          max_upload_size: 512M
+
         - name: konfigurator.mkdevops.se
           local_port: 3000
           max_upload_size: 16M
