@@ -61,6 +61,9 @@ Hostname-Port Allocations
 | `staging-www.mkdevops.se`  | `8074` | www.mkdevops.se WordPress staging site         |
 | `bamboo.mkdevops.se`       | `8085` | Test server for `mkdevops-se/bamboo-ci-health` |
 | `pt.mabl.se`               | `9000` | Test server for video streaming                |
+| `live.pt.mabl.se`          | `9000` | Poor-man's CDN setup for live streaming        |
+| `vod.pt.mabl.se`           | `9000` | Poor-man's CDN setup for VoD                   |
+| `pt.mabl.se`               | `9000` | Test server for video streaming                |
 | `konfigurator.mkdevops.se` | `3000` | See `mkdevops-se/konfigurator` project         |
 | `kibana.mkdevops.se`       | `5601` | Kibana setup for Titan-Elastic                 |
 
